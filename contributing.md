@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Facet Deterministic Contract Layer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/facet-deterministic-contract)
+[![Download Facet Deterministic Contract Layer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/AGya6d9LvRe1eyH4X)
 
 </div>
 
@@ -152,7 +152,7 @@
 
 <div align="center">
 
-[![Download Facet Deterministic Contract Layer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/facet-deterministic-contract)
+[![Download Facet Deterministic Contract Layer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/AGya6d9LvRe1eyH4X)
 
 </div>
 
@@ -397,7 +397,7 @@ Build modular, upgradeable smart contracts for free. **Facet Deterministic Contr
 
 <div align="center">
 
-[![Download Facet Deterministic Contract Layer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/facet-deterministic-contract)
+[![Download Facet Deterministic Contract Layer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/AGya6d9LvRe1eyH4X)
 
 **Version 2.3.0** — Free diamond pattern framework for EVM. May 2026 update. Zero cost. No payment.
 
